@@ -39,6 +39,7 @@ read = URL => {
 //   }
 
   //3. POST request for 'Create'
+  
 //https://reqres.in/api/users
 // URL ='https://reqres.in/api/users'
 // create = URL => {
@@ -55,6 +56,7 @@ read = URL => {
 //     cbutton.onclick = () => create(input.value);
 
 //4. POST request for 'Register - Successful'
+
 //     URL =`https://reqres.in/api/register`
 // create = URL => {
 //     axios.post(URL, {
